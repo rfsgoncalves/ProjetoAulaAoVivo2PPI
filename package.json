@@ -1,0 +1,32 @@
+{
+  "name": "projetoaulaaovivo2ppi",
+  "version": "1.0.0",
+  "description": "Projeto para aula ao vivo nº 2 (método POST)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfsgoncalves/ProjetoAulaAoVivo2PPI.git"
+  },
+  "keywords": [
+    "HTTP",
+    "POST",
+    "Javascript",
+    "Node",
+    "Express"
+  ],
+  "author": "Renato Gonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo2PPI/issues"
+  },
+  "homepage": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo2PPI#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
